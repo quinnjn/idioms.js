@@ -143,9 +143,6 @@ module.exports = [{
   idiom: "Close but no Cigar",
   meaning: "To be very near and almost accomplish a goal, but fall short."
 },{
-  idiom: "Cock and Bull Story",
-  meaning: "An unbelievable tale."
-},{
   idiom: "Come Hell Or High Water",
   meaning: "Any difficult situation or obstacle."
 },{
@@ -233,9 +230,6 @@ module.exports = [{
   idiom: "Cock and Bull Story",
   meaning: "An unbelievable tale."
 },{
-  idiom: "Cock and Bull Story",
-  meaning: "An unbelievable tale."
-},{
   idiom: "Feeding Frenzy",
   meaning: "An aggressive attack on someone by a group."
 },{
@@ -279,7 +273,7 @@ module.exports = [{
   meaning: "An old-fashioned and foolish type of person."
 },{
   idiom: "Full Monty",
-  meaning: "This idiom can mean either, \"the whole thing\" or \"completely nude\"."
+  meaning: "This idiom can mean either, \"the whole thing\"or \"completely nude\"."
 },{
   idiom: "Funny Farm",
   meaning: "A mental institutional facility."
@@ -721,4 +715,319 @@ module.exports = [{
 },{
   idiom: "Zero Tolerance",
   meaning: "No crime or law breaking big or small will be overlooked."
+},{ 
+  idiom: "A bitter pill",
+  meaning: "A situation or information that is unpleasant but must be accepted."
+},{ 
+  idiom: "A dime a dozen",
+  meaning: "Anything that is common, inexpensive, and easy to get or available any where."
+},{ 
+  idiom: "Ace in the hole",
+  meaning: "A hidden or secret strength, or unrevealed advantage."
+},{ 
+  idiom: "Achilles' heel",
+  meaning: "A metaphor for a fatal weakness in spite of overall strength."
+},{ 
+  idiom: "Actions speak louder than words",
+  meaning: "People's intentions can be judged better by what they do than by what they say."
+},{ 
+  idiom: "Add insult to injury",
+  meaning: "To further a loss with sarcasm or indignity; to worsen an unfavorable situation."
+},{ 
+  idiom: "All ears",
+  meaning: "Listening intently; fully focused or awaiting an explanation."
+},{ 
+  idiom: "All thumbs",
+  meaning: "Clumsy, awkward."
+},{ 
+  idiom: "An arm and a leg",
+  meaning: "Very expensive or costly. A large amount of money."
+},{ 
+  idiom: "Apple of discord",
+  meaning: "Anything causing trouble, discord, or jealousy."
+},{ 
+  idiom: "At the drop of a hat",
+  meaning: "Without any hesitation; instantly."
+},{ 
+  idiom: "Back to the drawing board",
+  meaning: "When an attempt fails, and it's time to start planning all over again."
+},{ 
+  idiom: "Ball is in your court",
+  meaning: "It is up to you to make the next decision or step."
+},{ 
+  idiom: "Barking up the wrong tree",
+  meaning: "Looking in the wrong place"
+},{ 
+  idiom: "Basket case",
+  meaning: "One made powerless or ineffective, as by nerves, panic, or stress"
+},{ 
+  idiom: "Beat around the bush",
+  meaning: "To treat a topic, but omit its main points, often intentionally or to delay or avoid talking about something difficult or unpleasant."
+},{ 
+  idiom: "Beat a dead horse",
+  meaning: "To uselessly dwell on a subject far beyond its point of resolution."
+},{ 
+  idiom: "Bed of roses",
+  meaning: "A rich person. A very rich family."
+},{ 
+  idiom: "Best of both worlds",
+  meaning: "A situation wherein someone has the privilege of enjoying two different opportunities."
+},{ 
+  idiom: "Bite off more than one can chew",
+  meaning: "To take on more responsibility than one can manage."
+},{ 
+  idiom: "Bite the bullet",
+  meaning: "To endure a painful or unpleasant situation that is unavoidable."
+},{ 
+  idiom: "Bite the dust",
+  meaning: "Euphemism for dying or death."
+},{ 
+  idiom: "Break a leg",
+  meaning: "A saying from the theatre that means \"good luck\"."
+},{ 
+  idiom: "Burn the midnight oil",
+  meaning: "To work late into the night, alluding to the time before electric lighting."
+},{ 
+  idiom: "Bust one's chops",
+  meaning: "To say things intended to harass."
+},{ 
+  idiom: "By the seat of one's pants",
+  meaning: "To achieve through instinct or do something without advance preparation."
+},{ 
+  idiom: "By the skin of one's teeth",
+  meaning: "Narrowly; barely. Usually used in regard to a narrow escape from a disaster."
+},{ 
+  idiom: "Call it a day",
+  meaning: "To declare the end of a task."
+},{ 
+  idiom: "Cat nap",
+  meaning: "A nap."
+},{
+  idiom: "Chalk up",
+  meaning: "To attribute something to a particular cause."
+},{
+  idiom: "Chomp at the bit",
+  meaning: "To show impatience or frustration when delayed."
+},{ 
+  idiom: "Champ at the bit",
+  meaning: "To show impatience or frustration when delayed."
+},{ 
+  idiom: "Chew the fat",
+  meaning: "To chat idly or generally waste time talking."
+},{ 
+  idiom: "Chink in one's armor",
+  meaning: "An area of vulnerability"
+},{ 
+  idiom: "Clam up",
+  meaning: "To become silent; to stop talking."
+},{ 
+  idiom: "Cold shoulder",
+  meaning: "To display aloofness and disdain."
+},{ 
+  idiom: "Couch potato",
+  meaning: "A lazy person."
+},{ 
+  idiom: "Crocodile tears",
+  meaning: "Fake tears or drama tears.(fake cry)"
+},{ 
+  idiom: "Cut a rug",
+  meaning: "To dance"
+},{ 
+  idiom: "Cut the cheese",
+  meaning: "To fart. Also cut the mustard"
+},{ 
+  idiom: "Cut the mustard",
+  meaning: "To perform well; to meet expectations or to fart."
+},{ 
+  idiom: "Don't have a cow",
+  meaning: "Don't overreact."
+},{ 
+  idiom: "Don't count chickens before they hatch",
+  meaning: "Don't make plans for something that may not happen; alternatively, don't make an assumption about something that does not have a definitively predetermined outcome."
+},{ 
+  idiom: "Don't give up your day job",
+  meaning: "A phrase implying that one is not proficient at performing a particular task and that they should not try to perform the task professionally"
+},{ 
+  idiom: "Drop a dime",
+  meaning: "Make a telephone call; to be an informant."
+},{ 
+  idiom: "Elephant in the room",
+  meaning: "An obvious, pressing issue left unaddressed due to its sensitive nature."
+},{ 
+  idiom: "Every butt has a silver lining",
+  meaning: "Be optimistic; every bad situation has some good aspect to it."
+},{ 
+  idiom: "Fit as a fiddle",
+  meaning: "In good physical health."
+},{ 
+  idiom: "For a song",
+  meaning: "Almost free. Very cheap."
+},{ 
+  idiom: "From A to Z",
+  meaning: "Covering a complete range; comprehensively."
+},{ 
+  idiom: "From scratch / to make from scratch",
+  meaning: "Make from original ingredients; start from the beginning with no prior preparation"
+},{ 
+  idiom: "Get bent out of shape",
+  meaning: "To take offense; to get worked up, aggravated, or annoyed"
+},{ 
+  idiom: "Grasp the nettle",
+  meaning: "To tackle a difficulty boldly."
+},{ 
+  idiom: "grass is always greener on the other side",
+  meaning: "A phrase implying that a person is never satisfied with their current situation; they think others have it better."
+},{ 
+  idiom: "Have a blast",
+  meaning: "To have a good time or to enjoy oneself."
+},{ 
+  idiom: "Have eyes in the back of one's head",
+  meaning: "Someone can perceive things and events that are outside of their field of vision."
+},{ 
+  idiom: "Heard it through the grapevine",
+  meaning: "You learned something through means of a rumor."
+},{ 
+  idiom: "Hit The Nail On The Head",
+  meaning: "1. To describe exactly what is causing a situation or problem; 2. To do exactly the right thing; 3.To do something in the most effective and efficient way; 4. To say exactly the right thing or to find the exact answer; 5.To be accurate or correct about something. Often abbreviated as HTNOTH all over the web"
+},{ 
+  idiom: "Hit the road",
+  meaning: "To leave."
+},{ 
+  idiom: "Hit the sheets",
+  meaning:"To go to bed to sleep."
+},{ 
+  idiom: "Hit the hay",
+  meaning:"To go to bed to sleep."
+},{ 
+  idiom: "I bet",
+  meaning: "When you understand why someone has a particular opinion or feels a particular way; \"of course\", \"indeed\". May also be used sarcastically."
+},{ 
+  idiom: "Ignorance is bliss",
+  meaning: "Life is good when you're naive to the hardships happening all around"
+},{ 
+  idiom: "It takes two to tango",
+  meaning: "A particular action or communication requires more than one person."
+},{ 
+  idiom: "Jump ship",
+  meaning: "Leave a job, organization, or activity suddenly."
+},{ 
+  idiom: "Kick the bucket",
+  meaning: "Euphemism for dying or death."
+},{ 
+  idiom: "Kill two birds with one stone",
+  meaning: "To accomplish two different tasks at the same time and/or with a single action."
+},{ 
+  idiom: "Let the cat out of the bag",
+  meaning: "To reveal a secret."
+},{ 
+  idiom: "Method to my madness",
+  meaning: "Despite someone's random approach, there is actually some structure to it."
+},{ 
+  idiom: "No horse in this race",
+  meaning: "No vested interest in the outcome of a particular contest or debate."
+},{ 
+  idiom: "Off one's trolley",
+  meaning: "Crazy, demented, out of one's mind, in a confused or befuddled state of mind, senile."
+},{ 
+  idiom: "Off one's rocker",
+  meaning: "Crazy, demented, out of one's mind, in a confused or befuddled state of mind, senile."
+},{ 
+  idiom: "Off the hook",
+  meaning: "To escape a situation of responsibility, obligation, or (less frequently) danger."
+},{ 
+  idiom: "Once in a blue moon",
+  meaning: "Something that occurs very rarely."
+},{ 
+  idiom: "Piss in one's cornflakes",
+  meaning: "To annoy, upset, or disappoint through spiteful or irresponsible behavior."
+},{ 
+  idiom: "Pop one's clogs",
+  meaning: "Euphemism for dying or death."
+},{ 
+  idiom: "Piece of cake",
+  meaning: "A job, task or other activity that is pleasant or, by extension, easy or simple."
+},{ 
+  idiom: "Preaching to the choir",
+  meaning: "To present a side of a discussion or argument to someone who already agrees with it; essentially, wasting your time"
+},{ 
+  idiom: "Pull somebody's leg",
+  meaning: "To tease or to joke by telling a lie."
+},{ 
+  idiom: "Pushing up daisies",
+  meaning: "Euphemism for dying or death."
+},{ 
+  idiom: "Put the cat among the pigeons",
+  meaning: "To create a disturbance and cause trouble."
+},{ 
+  idiom: "Raining cats and dogs",
+  meaning: "Raining really strong or hard."
+},{ 
+  idiom: "Right as rain",
+  meaning: "Needed, appropriate, essential, or hoped-for and has come to mean perfect, well, absolutely right."
+},{ 
+  idiom: "screw the pooch",
+  meaning: "To screw up; to fail in dramatic and ignominious fashion."
+},{ 
+  idiom: "Shoot the breeze",
+  meaning: "To chat idly or generally waste time talking."
+},{ 
+  idiom: "Shooting fish in a barrel",
+  meaning: "Frivolously performing a simple task."
+},{ 
+  idiom: "Sleep with the fishes",
+  meaning: "Euphemism for dying or death."
+},{ 
+  idiom: "Spill the beans",
+  meaning: "Reveal someone's secret."
+},{ 
+  idiom: "Spin one's wheels",
+  meaning: "Expel much effort for little or no gain."
+},{ 
+  idiom: "Split the whistle",
+  meaning: "To arrive just on time."
+},{ 
+  idiom: "Sunny smile",
+  meaning: "Very happy."
+},{ 
+  idiom: "Take the biscuit",
+  meaning: "To be particularly bad, objectionable, or egregious."
+},{ 
+  idiom: "Take the cake",
+  meaning: "To be especially good or outstanding."
+},{ 
+  idiom: "Take with a grain of salt",
+  meaning: "To not take what someone says too seriously; to treat someone's words with a degree of skepticism."
+},{ 
+  idiom: "Throw under the bus",
+  meaning: "To betray or sacrifice someone for selfish reasons."
+},{ 
+  idiom: "Through thick and thin",
+  meaning: "In both good and bad times."
+},{ 
+  idiom: "Thumb one's nose",
+  meaning: "To express scorn or to disregard."
+},{ 
+  idiom: "Tie one on",
+  meaning: "To get drunk."
+},{ 
+  idiom: "To steal someone's thunder",
+  meaning: "To take credit for something someone else did."
+},{ 
+  idiom: "Trip the light fantastic",
+  meaning: "To dance"
+},{ 
+  idiom: "Whole nine yards",
+  meaning: "Everything. All of it."
+},{ 
+  idiom: "Wild goose chase",
+  meaning: "A frustrating or lengthy undertaking that accomplishes little."
+},{ 
+  idiom: "You bet",
+  meaning: "Equivalent of saying \"that's for sure\" or \"of course\". May also be used sarcastically."
+},{ 
+  idiom: "X Marks the spot",
+  meaning: "When someone finds something they have been looking for."
+},{ 
+  idiom: "You can say that again",
+  meaning: "That is very true; expression of wholehearted agreement"
 }];
