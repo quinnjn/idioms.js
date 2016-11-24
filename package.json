@@ -1,6 +1,6 @@
 {
   "name": "idioms.js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "List of english idioms and their meanings",
   "main": "index.js",
   "scripts": {
