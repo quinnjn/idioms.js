@@ -1,5 +1,5 @@
 {
-  "name": "idioms",
+  "name": "idioms.js",
   "version": "1.0.0",
   "description": "List of english idioms and their meanings",
   "main": "index.js",
